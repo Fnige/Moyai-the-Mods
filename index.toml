@@ -481,8 +481,9 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
-file = "mods/figura-0.1.5+1.21.1-neoforge-patched.jar"
-hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
+file = "mods/figura.pw.toml"
+hash = "a12afbe355d6ba0c1d7c4b89d7dfa0e0b09991f95d2695908635b375046ce387"
+metafile = true
 
 [[files]]
 file = "mods/findme.pw.toml"
@@ -566,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "23a6d125c91c8f4257c4e73fe320ce81f0b2a0c1d6316664296edca6b41acb70"
+hash = "4fbe04bd9f15b5c0f861472a9be7d95ca743c7ed820119cfb7e3caed12e071fb"
 metafile = true
 
 [[files]]
