@@ -1,0 +1,13 @@
+name = "MiscTweaks"
+filename = "misctweaks-1.2.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9sMkzzYU/versions/Lh9ZD1Ih/misctweaks-1.2.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5012a3ce9469b8b3760d85cd50ad9dead54095dd2b11647104e50f093488fd2d69f40dfb2d8594f29db27c3cee454c7cd300bf545b5c16551a57758d4f9b7bc7"
+
+[update]
+[update.modrinth]
+mod-id = "9sMkzzYU"
+version = "Lh9ZD1Ih"

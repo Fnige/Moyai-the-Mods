@@ -1,0 +1,13 @@
+name = "Some Assembly Required"
+filename = "someassemblyrequired-5.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jZi8ogTA/versions/UVikcWDT/someassemblyrequired-5.2.1.jar"
+hash-format = "sha512"
+hash = "6b460b6509c8a65ebcfd88b0ebab2fcf093e540eaa8ef6f9f64e0083d80e1d4c0ed24bc199fe27986d3d102c5521c6e6f01ff59ddf26d5364370253d363af0a9"
+
+[update]
+[update.modrinth]
+mod-id = "jZi8ogTA"
+version = "UVikcWDT"

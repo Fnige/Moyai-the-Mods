@@ -1,0 +1,13 @@
+name = "Sorted Enchantments"
+filename = "sorted_enchantments-2.0.0+1.21+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jmHEp0Dv/versions/SATTKhSK/sorted_enchantments-2.0.0%2B1.21%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "94e9b953594cf73eee79d74f4e7ef7b641f3f346667ca43f55d24b0c58a3c6ce80e5e97deedec40ca0bd3080341c5e530610383d8dcb5318e58818284fd8e5cc"
+
+[update]
+[update.modrinth]
+mod-id = "jmHEp0Dv"
+version = "SATTKhSK"
