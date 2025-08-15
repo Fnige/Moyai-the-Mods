@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-broken-bad-fabric.pw.toml"
-hash = "4652701729b4a40bf1c81c98d7aa7ef6af05af0bc90fe604ac143be48ca259d3"
+hash = "5117f179779ec5be73a5d36dc5055e1aaafe97672e9b39d39b46b0d433cc27aa"
 metafile = true
 
 [[files]]
