@@ -201,11 +201,6 @@ hash = "ffb0861ae37abc292e61208c8b7826b7b8287b24c07419083d4bb4ac109da4ee"
 metafile = true
 
 [[files]]
-file = "mods/clientsort.pw.toml"
-hash = "f18e2469c1d0ae848d2995f7f845f295cc440be6ab5a68ebe97cb8aab9fc64e1"
-metafile = true
-
-[[files]]
 file = "mods/clifftree.pw.toml"
 hash = "c7ceaae4e41a455b1adc72a1d1c327a02ce4d608b9c974fae2b80198ec8b19c6"
 metafile = true
@@ -358,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/create-trimmed.pw.toml"
 hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
-metafile = true
-
-[[files]]
-file = "mods/create-upsizing.pw.toml"
-hash = "fa1733ec72310952d0eb98a5110c68ce0f3ce37bc0cb620dbb43455ee3115c9b"
 metafile = true
 
 [[files]]
@@ -721,11 +711,6 @@ hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
-file = "mods/neat.pw.toml"
-hash = "b7296f6d9061c1d7efbd8693c4463d5f2bf1450b0c289ac3297fdabf7ce99479"
-metafile = true
-
-[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
@@ -1046,8 +1031,8 @@ hash = "92e741132691a2c98d61f11806532e8e2b7a88efbbbb547f6108773a06d5a8a8"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
+file = "mods/trimmable-tools.pw.toml"
+hash = "113988ed5fa0ab2b2fbe56041852290579abc57db5f828a4c570acd4be1204e6"
 metafile = true
 
 [[files]]
