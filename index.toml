@@ -556,11 +556,6 @@ hash = "f19dbc49d8ea78cd63260ca2d20a531f517c98574e10ddc7ab144a16222266c0"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "9129ed24edcd489cb9370b9417d5f5ca6563c1d63f1ec7157ee7ef7b379ed296"
-metafile = true
-
-[[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
 hash = "4fbe04bd9f15b5c0f861472a9be7d95ca743c7ed820119cfb7e3caed12e071fb"
 metafile = true
