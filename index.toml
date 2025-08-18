@@ -776,6 +776,11 @@ hash = "c5ca38fd4e54c1c59f0caa0b696da20186eb6484432804012557a01af9948457"
 metafile = true
 
 [[files]]
+file = "mods/polylib.pw.toml"
+hash = "6e3725821b35651b62dfc74cb6d268273f395098195a8dbb1f2f2c5d40a9445a"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
@@ -853,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/showcase-item.pw.toml"
 hash = "f67f27ecc171b7934e114a09ac00f066cb2343d2350f2f1b9a96bd33c022fb94"
+metafile = true
+
+[[files]]
+file = "mods/shrink.pw.toml"
+hash = "b28532c95b5df06810537e4057b4b6b2db66deef6e67cff7f5b0d3bf5a51512d"
 metafile = true
 
 [[files]]
