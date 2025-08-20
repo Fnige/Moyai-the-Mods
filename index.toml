@@ -26,11 +26,6 @@ hash = "cb94f5d5eecbc40cc4f1ade92d23da3417ac06d1a16f2a0210b395c26c9cc1d3"
 metafile = true
 
 [[files]]
-file = "mods/aether.pw.toml"
-hash = "4292e216d9c436006b801a6d90a3a355c47ea1949219187e577afae78737d729"
-metafile = true
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
