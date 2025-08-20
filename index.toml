@@ -1261,6 +1261,11 @@ hash = "d1b313d89f6dc7bbb7ffa79c6af701a784294eec71bf94f64a9701724e7978ad"
 metafile = true
 
 [[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "c83fbd7c8ebe356a6cdf36fff85c516f0d0e049ea914169f4b0fc094111c903e"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
