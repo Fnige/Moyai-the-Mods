@@ -1371,11 +1371,6 @@ hash = "0a521500b6c149af89fdd33e591388b88625809ad14ee91f420875eeba216979"
 metafile = true
 
 [[files]]
-file = "mods/stone-zone.pw.toml"
-hash = "216a6da3f8c65e5fb0b23d5e789368f10aaf9fcfa41a98612dbf9158a0f702d7"
-metafile = true
-
-[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "5f34acf1abde884e2e955103bcadfbd03652e0cd1d3e224ced4c4a1e9e1664c6"
 metafile = true
