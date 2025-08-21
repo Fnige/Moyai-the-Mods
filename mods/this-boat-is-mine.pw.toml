@@ -1,13 +1,13 @@
 name = "This boat is MINE!"
-filename = "tbim-neoforge-2.0.0.jar"
+filename = "this-boat-is-mine-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1Q8vmqRK/versions/TnlEph5O/tbim-neoforge-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/1Q8vmqRK/versions/EtfTEbI1/this-boat-is-mine-1.0.1.jar"
 hash-format = "sha512"
-hash = "28d3832deb06c08627dee357079fccdebea16ddfd84ce4527b432e4f6ca3df6c43a1f34bee636d9f8a6f15bdaec9b3c41b1339cb16d8874cdc3a80afea86f6a1"
+hash = "7500359867361917d49244371843d3407774eb06fad4999137932c263af3f456d88877587fdd1eb4668db2a9f47316f105084ba2a1ae33994b778a4480cee662"
 
 [update]
 [update.modrinth]
 mod-id = "1Q8vmqRK"
-version = "TnlEph5O"
+version = "EtfTEbI1"
