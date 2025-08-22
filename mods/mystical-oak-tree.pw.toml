@@ -1,0 +1,13 @@
+name = "Mystical Oak Tree"
+filename = "mysticaloaktree-1.21-1.13-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eUma2vmY/versions/GEPAdxRS/mysticaloaktree-1.21-1.13-neoforge.jar"
+hash-format = "sha512"
+hash = "051bbc7784a7122684194aed7de488b012a7a5c1015298aff9fc6ddbc553e188e323f898f478b74eb6f9dc1fad4d5e9f0c3e94261e3cf6198f7cae55ba1ad8d4"
+
+[update]
+[update.modrinth]
+mod-id = "eUma2vmY"
+version = "GEPAdxRS"

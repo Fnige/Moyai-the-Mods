@@ -161,11 +161,6 @@ hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
-file = "mods/better-boat-movement.pw.toml"
-hash = "554c717a20eb4d89d469a996f9eeca17e7574b3251dcc7641855ddb9ef2b0ee8"
-metafile = true
-
-[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "edb72fd9bebbb8348d9a8e42a2ea5b505919b6a9a95db5e7d2e3493276083496"
 metafile = true
@@ -1013,6 +1008,11 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "0cd80499ad61c0617dfee679bb5dcd37870fd2895fd6f2f5fa0ed00b716a84ff"
+metafile = true
+
+[[files]]
+file = "mods/mystical-oak-tree.pw.toml"
+hash = "820854aed083a349b34531b1694db181c3986662413f1f28bc56d365581197c4"
 metafile = true
 
 [[files]]
