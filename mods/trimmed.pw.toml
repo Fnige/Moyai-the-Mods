@@ -1,6 +1,6 @@
 name = "Trimmed"
 filename = "trimmed-neo-1.21-3.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/q8k4zHw5/versions/wqxXFq0d/trimmed-neo-1.21-3.0.0.jar"
