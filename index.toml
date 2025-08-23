@@ -41,11 +41,6 @@ hash = "a0453123a545c46c3f36e1f3909de6c91c72e757f8fbc7521555dd70d0024466"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
-metafile = true
-
-[[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "14ed822f085f2a69a4bb86056b8049a71d80bd32f7b47b06b5b1bf5f7e4e7601"
 metafile = true
@@ -226,6 +221,11 @@ hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
 metafile = true
 
 [[files]]
+file = "mods/cfm-wap.pw.toml"
+hash = "c6e35319cc7df0a8351c46e496a94b652d158d4b57ea232df732062b313830d2"
+metafile = true
+
+[[files]]
 file = "mods/chatnotify.pw.toml"
 hash = "99007659083785fcfa6968d2187a2cd2f2e9454e8edd66edad463347b091e7dc"
 metafile = true
@@ -303,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true
 
 [[files]]
@@ -486,6 +481,11 @@ hash = "1fcd8d23b7f10f7a469765dba92730e447ed1c8ba2f7b668f1dfd5afff5b6ee7"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "0c1a1e3fcc970455a3e2dacda3bdf8bf8c73483af833558cd06327e2bf77de65"
 metafile = true
@@ -606,11 +606,6 @@ hash = "8efa1757432143004e1958e70f01139ed350e85c9d5842346d30ec32231636de"
 metafile = true
 
 [[files]]
-file = "mods/enders-delight.pw.toml"
-hash = "a693f3ca25b4b4ece785887d5a095abb1ab959804fbf6c89f119100f1de1df4b"
-metafile = true
-
-[[files]]
 file = "mods/enderscape.pw.toml"
 hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
 metafile = true
@@ -661,11 +656,6 @@ hash = "c4027b8071cc6dfc7f0d49e702a5e25b1e36841e50acba1e699f308be156b8f2"
 metafile = true
 
 [[files]]
-file = "mods/farmers-knives.pw.toml"
-hash = "6368a94c8b58504e47bde015c69fa95c25100cf5c8abfc3aecf13089ddef432e"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
@@ -683,11 +673,6 @@ metafile = true
 [[files]]
 file = "mods/flat-bedrock.pw.toml"
 hash = "d17382ebb5d2d2f7e56e9fbb71b4b9d7ec9a61134dec3de9ef8bfaab876c205a"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
@@ -1406,23 +1391,8 @@ hash = "060445efe651db2d467e5341d982b2f49b980a21a8aa034f10ef725675c2d77c"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
-metafile = true
-
-[[files]]
-file = "mods/surveystones.pw.toml"
-hash = "a195d1cb6b5643cf1514b637169a2e779201e09d8fd9dc5da3bd78c53c8176ec"
-metafile = true
-
-[[files]]
 file = "mods/sushigocrafting.pw.toml"
 hash = "35fe45dbe992cb418145565d1193bf0694d548dce5dcd5222a57d99a69d3a8eb"
-metafile = true
-
-[[files]]
-file = "mods/swingthrough.pw.toml"
-hash = "2f05b23513f7682101e2ab609964833f1b4e8557a3c9b272f7c51d9dfa7ad254"
 metafile = true
 
 [[files]]
@@ -1443,11 +1413,6 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
-metafile = true
-
-[[files]]
-file = "mods/timeoutout.pw.toml"
-hash = "c83fbd7c8ebe356a6cdf36fff85c516f0d0e049ea914169f4b0fc094111c903e"
 metafile = true
 
 [[files]]
