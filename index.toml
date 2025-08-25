@@ -1494,3 +1494,7 @@ metafile = true
 file = "mods/ytones.pw.toml"
 hash = "a9500998bcbb3d6fc7871a53f641cb0447a40ad30f18fbf7c7b3a63543972ad4"
 metafile = true
+
+[[files]]
+file = "mtm_logo.png"
+hash = "88180cbf39d5619feb3fb1504d46c39bc7a07d4bf50e38c9107314524ce9dfff"
