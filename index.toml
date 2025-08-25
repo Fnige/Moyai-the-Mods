@@ -1046,6 +1046,11 @@ hash = "044abd44322fdea17184fecefa77b0f0e8bf550161c70518a16917b76821b427"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "e46d8b54f1f7fb179dcef5df1671eb67bf1b2d4d63aa286e944e460c9a42494d"
 metafile = true
