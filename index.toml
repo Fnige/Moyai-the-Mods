@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/options.json"
+hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
+
+[[files]]
+file = "config/openloader/packs/blazeandcaves-advancements-pack.pw.toml"
+hash = "5c6a762d84b87b19b50e3e9ab89a0d0e446f7d915e9b1f7ee40379a90826e929"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "ae6352055ac8adb36b9e4d2ae6bbc996e040399d032bc4a9fa5275c1c46dbf60"
 metafile = true
