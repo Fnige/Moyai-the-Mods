@@ -1132,7 +1132,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "c81cdac68db336237210bd5e8c7bb1bc9cc141e184e246eefdfe034bf0761160"
+hash = "e4c289b0be8f0aa41c81765933b76a0fcf02ead89540f88eff2e472e4e66a166"
 metafile = true
 
 [[files]]
