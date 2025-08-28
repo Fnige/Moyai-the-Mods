@@ -320,11 +320,6 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
-metafile = true
-
-[[files]]
 file = "mods/corpse.pw.toml"
 hash = "d0c4db41717ede48a6f9c47ce2cd30a4336b7520279cac56649f96939cd1e7cb"
 metafile = true
@@ -355,11 +350,6 @@ hash = "5117f179779ec5be73a5d36dc5055e1aaafe97672e9b39d39b46b0d433cc27aa"
 metafile = true
 
 [[files]]
-file = "mods/create-cheese.pw.toml"
-hash = "c602d7f6d79303c84b333da9188415baee535a597b1cbfc0d52b701dab3935e0"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "98f1f22a846713d35b2375d4a88b18836e11f427734527d729dc1b89e7fb4da3"
 metafile = true
@@ -372,11 +362,6 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-generators.pw.toml"
-hash = "27f4ebe3a5f2098a2f7666442f6ad7ac7484636a3918475fec5fdf8ce6c3fd8f"
 metafile = true
 
 [[files]]
@@ -417,11 +402,6 @@ metafile = true
 [[files]]
 file = "mods/create-garnished-reworked.pw.toml"
 hash = "6f64466117d666ee66e1fdaf32da02dd4d925d8b53f8579c423c28135b0e7b90"
-metafile = true
-
-[[files]]
-file = "mods/create-picky-wheels.pw.toml"
-hash = "c91192897611acfe2c585d1da05695301c483cd8ee1bc539ccbf925b82ea4449"
 metafile = true
 
 [[files]]
@@ -1287,11 +1267,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "3fa8d5fc724d385454d3bcda9edf8f589ff71695504ca4bb88d3e9dcbf85d414"
-metafile = true
-
-[[files]]
-file = "mods/sizeshiftingpotions.pw.toml"
-hash = "86e5d34deddb681e5ea207389b3775b386c9ae4108d623641cf690f94c86bfdd"
 metafile = true
 
 [[files]]
