@@ -685,6 +685,11 @@ hash = "d17382ebb5d2d2f7e56e9fbb71b4b9d7ec9a61134dec3de9ef8bfaab876c205a"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f9fd94d5c7795e107b83952c6f21c1995c81fd200ede7fa68c530baedbee837d"
+metafile = true
+
+[[files]]
 file = "mods/forgiving-void.pw.toml"
 hash = "49bda925b24bb4c91684bd209a3b7446dc9d90202694979b861851c74380054b"
 metafile = true
@@ -830,6 +835,11 @@ hash = "8d3e669a813af2e685efafeca797f95ad8a99c344078e72d2ce0ee1273369bd8"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "cc903c56f854019dc420ab9a088e1a3a328e7839291aafae038f37005e59988e"
+metafile = true
+
+[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
 metafile = true
@@ -950,6 +960,11 @@ hash = "f2d6d97fab7e3aa2a83b7c2f4a4d37b79640d1d2eb4321b4d1a849f35cad0fb2"
 metafile = true
 
 [[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "45374f819490ab2f1dd54dd3c77301dcd25be255b39eca4c4ddb98a2e1b1c2d8"
+metafile = true
+
+[[files]]
 file = "mods/mega.pw.toml"
 hash = "4f7bd3545378ae50d94d8c20ba011d685ebe1dadc54f3588b548dc30bd9de0bc"
 metafile = true
@@ -986,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5c8354146bc3ae9ff7d9e03b6a5380170a4920e975d04489ca8ba17a1b0e10e8"
+hash = "ce13ec6c9038592714b55318f0ff5b93400f639b64fbe5d196507f65a2dcdb6a"
 metafile = true
 
 [[files]]
