@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ae2-common.toml"
+hash = "d4c426e559aeda08aade6947c2b76be5da2f5d4dee785332382b06fb02401091"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "8f6007c1f225482e5c180f2949f44f75baba4288bb9074368c36fd032433a894"
+
+[[files]]
+file = "config/apotheosis/name_generation.cfg"
+hash = "9392000763e605a380c94be81210411ab417300d6e9e71559e298fa33ae685c8"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "cf50ea697c9de95661e353fa7a9ae9ecf4056ef17f4f914bb32e07e8a90dd0f0"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "2390e36369f3ce3c2e96f44af959b1a62cd99abc8e61926f8a7da5c76c40ffda"
+
+[[files]]
+file = "config/combatnouveau-server.toml"
+hash = "a29684e32a73935cdf567ff9ba4bd4f8c5bfb290de7ec3246f29e49f3a758949"
+
+[[files]]
 file = "config/openloader/options.json"
 hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
 
