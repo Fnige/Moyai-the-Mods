@@ -13,8 +13,8 @@ file = "config/apotheosis/name_generation.cfg"
 hash = "9392000763e605a380c94be81210411ab417300d6e9e71559e298fa33ae685c8"
 
 [[files]]
-file = "config/carryon-client.toml"
-hash = "cf50ea697c9de95661e353fa7a9ae9ecf4056ef17f4f914bb32e07e8a90dd0f0"
+file = "config/aquaculture-common.toml"
+hash = "a342b1463882b2f59735058cde0d0c7a0379cbd54e41123c0713c264ed9d9257"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -25,6 +25,10 @@ file = "config/combatnouveau-server.toml"
 hash = "a29684e32a73935cdf567ff9ba4bd4f8c5bfb290de7ec3246f29e49f3a758949"
 
 [[files]]
+file = "config/misctweaks/client_config.toml"
+hash = "10cc8aaab3c3ed625c464aa8518871331a2007b763392be1f6385dbff4d8038d"
+
+[[files]]
 file = "config/openloader/options.json"
 hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
 
@@ -32,6 +36,30 @@ hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
 file = "config/openloader/packs/blazeandcaves-advancements-pack.pw.toml"
 hash = "5c6a762d84b87b19b50e3e9ab89a0d0e446f7d915e9b1f7ee40379a90826e929"
 metafile = true
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "f31bc5141901b42ffb903659a2b6fb1f46b59aee98edc977e77fdeb2449225b1"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "90a3da935e89208bedba12ffcd243951e1894fd0ba316d37ce80b853949de4d6"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "0afa870ecfcd9a3923a505e172be48792e59acb8f824c1ee6f8e9e2b5311c0a9"
+
+[[files]]
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/config/carryon-client.toml"
+hash = "cf50ea697c9de95661e353fa7a9ae9ecf4056ef17f4f914bb32e07e8a90dd0f0"
+
+[[files]]
+file = "configureddefaults/config/figura.json"
+hash = "d599a897f0d5e078b5bdfe23016d5740c22f4167dc25c744990df9336395e31c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
