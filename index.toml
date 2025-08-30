@@ -25,6 +25,14 @@ file = "config/combatnouveau-server.toml"
 hash = "a29684e32a73935cdf567ff9ba4bd4f8c5bfb290de7ec3246f29e49f3a758949"
 
 [[files]]
+file = "config/crepperoverhaul-client.jsonc"
+hash = "18deda68ffc398bb091c7ca5fad6ca0fb1a0493b9c4883bb789013c92bb3d42c"
+
+[[files]]
+file = "config/dummmmmmy-common.toml"
+hash = "43eb770a75da545b5ade53aaa19f3fde994294b688de36f2aeb27659ee8341a1"
+
+[[files]]
 file = "config/misctweaks/client_config.toml"
 hash = "10cc8aaab3c3ed625c464aa8518871331a2007b763392be1f6385dbff4d8038d"
 
@@ -56,6 +64,14 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 [[files]]
 file = "configureddefaults/config/carryon-client.toml"
 hash = "cf50ea697c9de95661e353fa7a9ae9ecf4056ef17f4f914bb32e07e8a90dd0f0"
+
+[[files]]
+file = "configureddefaults/config/create-client.toml"
+hash = "cbaebde712280022931f9eab1aa4b73a50a64eab39c3d5b39d8a7c24d401effd"
+
+[[files]]
+file = "configureddefaults/config/ding.toml"
+hash = "226410a32b0579510f3f13c0ba08b890a169f8af9aef036e7cb42556535c38d7"
 
 [[files]]
 file = "configureddefaults/config/figura.json"
