@@ -6,7 +6,7 @@ hash = "d4c426e559aeda08aade6947c2b76be5da2f5d4dee785332382b06fb02401091"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
-hash = "8f6007c1f225482e5c180f2949f44f75baba4288bb9074368c36fd032433a894"
+hash = "27f17309916a2865f1f12873d64663c4c5b2b26694b305870cdf6514a4459feb"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
@@ -17,12 +17,20 @@ file = "config/aquaculture-common.toml"
 hash = "a342b1463882b2f59735058cde0d0c7a0379cbd54e41123c0713c264ed9d9257"
 
 [[files]]
+file = "config/axesareweapons.json5"
+hash = "f5b2e9c7f9b972c42e25de3e63a209171c9ad1a72ea4f5eda6c0dd40222203c4"
+
+[[files]]
 file = "config/carryon-common.toml"
-hash = "2390e36369f3ce3c2e96f44af959b1a62cd99abc8e61926f8a7da5c76c40ffda"
+hash = "18256c52bb0389d3cb5af04882802cf04365996005cbdf0604fb972ddfd25077"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
 hash = "a29684e32a73935cdf567ff9ba4bd4f8c5bfb290de7ec3246f29e49f3a758949"
+
+[[files]]
+file = "config/create_enchantment_industry-server.toml"
+hash = "25929865e9d06484a50b5efe1fbd77cedfb9bf76b493d861b3124f2c2bde8866"
 
 [[files]]
 file = "config/crepperoverhaul-client.jsonc"
@@ -39,11 +47,6 @@ hash = "10cc8aaab3c3ed625c464aa8518871331a2007b763392be1f6385dbff4d8038d"
 [[files]]
 file = "config/openloader/options.json"
 hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
-
-[[files]]
-file = "config/openloader/packs/blazeandcaves-advancements-pack.pw.toml"
-hash = "5c6a762d84b87b19b50e3e9ab89a0d0e446f7d915e9b1f7ee40379a90826e929"
-metafile = true
 
 [[files]]
 file = "config/servercore/config.yml"
