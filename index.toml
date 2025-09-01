@@ -22,19 +22,27 @@ hash = "f5b2e9c7f9b972c42e25de3e63a209171c9ad1a72ea4f5eda6c0dd40222203c4"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "18256c52bb0389d3cb5af04882802cf04365996005cbdf0604fb972ddfd25077"
+hash = "704b7eb5088e723747dda8bf7624122e812d50c5197f03dd5398ca36c97c7ce7"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
 hash = "a29684e32a73935cdf567ff9ba4bd4f8c5bfb290de7ec3246f29e49f3a758949"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "c8356af3afebbe48c1732472113ded4fc4729e983b2433e937b47c7cc319b885"
+
+[[files]]
 file = "config/create_enchantment_industry-server.toml"
 hash = "25929865e9d06484a50b5efe1fbd77cedfb9bf76b493d861b3124f2c2bde8866"
 
 [[files]]
-file = "config/crepperoverhaul-client.jsonc"
-hash = "18deda68ffc398bb091c7ca5fad6ca0fb1a0493b9c4883bb789013c92bb3d42c"
+file = "config/creategarnished-server.toml"
+hash = "def41a78642fb5462b852a323455855865a8594ee116bda11715dbf21d2141ec"
+
+[[files]]
+file = "config/doubledoors.json5"
+hash = "d4407793e6f0450c0b22eb5099f297e66ec947b666e8b5b1b7a15c87c1818cca"
 
 [[files]]
 file = "config/dummmmmmy-common.toml"
@@ -73,12 +81,28 @@ file = "configureddefaults/config/create-client.toml"
 hash = "cbaebde712280022931f9eab1aa4b73a50a64eab39c3d5b39d8a7c24d401effd"
 
 [[files]]
+file = "configureddefaults/config/crepperoverhaul-client.jsonc"
+hash = "18deda68ffc398bb091c7ca5fad6ca0fb1a0493b9c4883bb789013c92bb3d42c"
+
+[[files]]
 file = "configureddefaults/config/ding.toml"
 hash = "226410a32b0579510f3f13c0ba08b890a169f8af9aef036e7cb42556535c38d7"
 
 [[files]]
+file = "configureddefaults/config/endermanoverhaul-client.jsonc"
+hash = "892a19b0dacaaf23f6a784483dd09086c293da937455281cb32988ff0cbf4db0"
+
+[[files]]
 file = "configureddefaults/config/figura.json"
 hash = "d599a897f0d5e078b5bdfe23016d5740c22f4167dc25c744990df9336395e31c"
+
+[[files]]
+file = "configureddefaults/config/fml.toml"
+hash = "55d775d606659fa0e6b82e154c32b1e431c64d906a995a0e66d76a211d459a39"
+
+[[files]]
+file = "configureddefaults/config/ftblibrary-client.snbt"
+hash = "4cd6320d1758b598e4819511a0f54e7739a22c2fa6ac2ab91b9ea4ab85599285"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -421,6 +445,11 @@ hash = "5117f179779ec5be73a5d36dc5055e1aaafe97672e9b39d39b46b0d433cc27aa"
 metafile = true
 
 [[files]]
+file = "mods/create-cardboarded-conveynience.pw.toml"
+hash = "a75366f4e1b59905865a4f848ff5dc3a591b92b12483fdc8c1be10bbf5e85d09"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "98f1f22a846713d35b2375d4a88b18836e11f427734527d729dc1b89e7fb4da3"
 metafile = true
@@ -428,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/create-copper-zinc.pw.toml"
 hash = "f3d9737e7a571510c0a464f051d2d842ca018c05ad91eb52f6d4726e17edf6f1"
+metafile = true
+
+[[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "9fc83755c0454a6c772bcda449b0cc40dce6aeff5453efa3555e474bbb690a43"
 metafile = true
 
 [[files]]
@@ -803,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/grabby-mobs.pw.toml"
 hash = "b246c3cd01516ddee34626592766543695a788e4134e3de7d89ad6ee998d553e"
+metafile = true
+
+[[files]]
+file = "mods/granular-mob-griefing.pw.toml"
+hash = "01d40d2efe781865ee06644cd93b915600d0bd8598b076e6922da64e6d92a6fe"
 metafile = true
 
 [[files]]
