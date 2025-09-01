@@ -22,7 +22,7 @@ hash = "f5b2e9c7f9b972c42e25de3e63a209171c9ad1a72ea4f5eda6c0dd40222203c4"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "704b7eb5088e723747dda8bf7624122e812d50c5197f03dd5398ca36c97c7ce7"
+hash = "e3813cd77b6fd686e3137a6207793a61aad877bb49b2be2a2fb8ebb1152a098a"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
