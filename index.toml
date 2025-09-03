@@ -83,7 +83,7 @@ hash = "90a3da935e89208bedba12ffcd243951e1894fd0ba316d37ce80b853949de4d6"
 
 [[files]]
 file = "config/someassemblyrequired-server.toml"
-hash = "269f9546b53afd9b7983e844b6809cffda5312381617065a89736eaf2b987b5b"
+hash = "7509e98d5e24116889cd0d63f13d20d075a49ac53b90798ce541c44b58453c0d"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
@@ -1504,7 +1504,7 @@ metafile = true
 
 [[files]]
 file = "mods/some-assembly-required.pw.toml"
-hash = "1be1c746bd1dba8c92ca48d49b43a582e0ecd57568b62f9a47ee320cb4855775"
+hash = "65dfde786ce295b9e9cc55c968c4ca19d137451bf8853b5a53fe40af00f9d536"
 metafile = true
 
 [[files]]
