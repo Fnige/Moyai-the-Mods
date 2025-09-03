@@ -53,6 +53,14 @@ file = "config/misctweaks/client_config.toml"
 hash = "10cc8aaab3c3ed625c464aa8518871331a2007b763392be1f6385dbff4d8038d"
 
 [[files]]
+file = "config/naturescompass-common.toml"
+hash = "029dee2987de1fe4ad2be40d8c38b59b0c35f9d86e381842a68faf3a477311f6"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "7d8f229056f3347defe923c88d2139328a9f75530a8c268da6105539a7808f11"
+
+[[files]]
 file = "config/openloader/options.json"
 hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
 
@@ -100,10 +108,6 @@ hash = "892a19b0dacaaf23f6a784483dd09086c293da937455281cb32988ff0cbf4db0"
 [[files]]
 file = "configureddefaults/config/figura.json"
 hash = "d599a897f0d5e078b5bdfe23016d5740c22f4167dc25c744990df9336395e31c"
-
-[[files]]
-file = "configureddefaults/config/fml.toml"
-hash = "55d775d606659fa0e6b82e154c32b1e431c64d906a995a0e66d76a211d459a39"
 
 [[files]]
 file = "configureddefaults/config/ftblibrary-client.snbt"
@@ -1201,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "184d32c89a90ae8e36ccc8b314767ea591e2338bb21afeb0d9c3e9e11269d360"
+hash = "53a9c86028ea785fd0cb0da3756cb592f12246212e45de7891a86becafdbeaff"
 metafile = true
 
 [[files]]
