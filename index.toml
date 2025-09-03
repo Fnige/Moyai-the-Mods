@@ -588,6 +588,11 @@ hash = "0d3bcce402b76cfa495a68c987e2a67a79a9bdf625a45266dec855610f1bd48e"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "00c9e9b13e53f6ae05132fa77f6aa76b6dbb866d0ccb86a9dde375de00b07c1c"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
 metafile = true
@@ -1540,6 +1545,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "8fc5de8af644504673af794edc678ffa7b508c39ad30f69736744b282d55ad50"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "a996ba60a3ab57e4b6c0d91f09b4a388ccfcf3b1d1ce6bf913644a7abfab0adb"
 metafile = true
 
 [[files]]
