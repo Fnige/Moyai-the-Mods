@@ -49,6 +49,10 @@ file = "config/dummmmmmy-common.toml"
 hash = "43eb770a75da545b5ade53aaa19f3fde994294b688de36f2aeb27659ee8341a1"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "3b886bef5a1a9ec9a366c6d32fe3f8f4ed014a7046245e9227784539bd3a7595"
+
+[[files]]
 file = "config/misctweaks/client_config.toml"
 hash = "10cc8aaab3c3ed625c464aa8518871331a2007b763392be1f6385dbff4d8038d"
 
@@ -76,6 +80,25 @@ hash = "aa8d9a46a2ff777397513bc997f91d7d379a60beb54e28fa620d07951647b593"
 [[files]]
 file = "config/servercore/optimizations.yml"
 hash = "90a3da935e89208bedba12ffcd243951e1894fd0ba316d37ce80b853949de4d6"
+
+[[files]]
+file = "config/someassemblyrequired-server.toml"
+hash = "269f9546b53afd9b7983e844b6809cffda5312381617065a89736eaf2b987b5b"
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "2b8b6bba9310e8d5bf4dfda4303a2af86c9e4681f6b4f08c7c2099b0d4a1ff51"
+
+[[files]]
+file = "config/sophisticatedstorage-server.toml"
+hash = "a77680c5943febd0eb0a1ff737b9fc53e7327c1f4097c095ac5a8ab9287ff3a6"
+
+[[files]]
+file = "config/structure_layout_optimizer.jsonc"
+hash = "f444999dd9a66b3fa806be94421bb7fe82fd898f91f3bf29a4aaab4e8f5cd95f"
+
+[[files]]
+file = "config/twilightforest-common.toml"
+hash = "762b83642cf707656cb8762ed147e095999899f380874b88fb4b769124a99965"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -1276,11 +1299,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "c5ca38fd4e54c1c59f0caa0b696da20186eb6484432804012557a01af9948457"
-metafile = true
-
-[[files]]
-file = "mods/plenty-plates.pw.toml"
-hash = "3a9e3602007b76e3c87150f13025882499ab422940d6d12934d8ec2eb1bbfdc4"
 metafile = true
 
 [[files]]
