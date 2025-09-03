@@ -84,6 +84,7 @@ hash = "90a3da935e89208bedba12ffcd243951e1894fd0ba316d37ce80b853949de4d6"
 [[files]]
 file = "config/someassemblyrequired-server.toml"
 hash = "269f9546b53afd9b7983e844b6809cffda5312381617065a89736eaf2b987b5b"
+
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 hash = "2b8b6bba9310e8d5bf4dfda4303a2af86c9e4681f6b4f08c7c2099b0d4a1ff51"
