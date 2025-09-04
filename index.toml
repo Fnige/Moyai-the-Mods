@@ -18,7 +18,7 @@ hash = "a342b1463882b2f59735058cde0d0c7a0379cbd54e41123c0713c264ed9d9257"
 
 [[files]]
 file = "config/audioplayer/audioplayer-server.properties"
-hash = "660fd1d3b12251d808f28bbeb4d119cc217d06511e595ca688d7fe0f759ffe81"
+hash = "15c8bd083c83964a9758943c3f1deb3441129996a4a17fed9234fb639be69fee"
 
 [[files]]
 file = "config/axesareweapons.json5"
@@ -34,7 +34,7 @@ hash = "e1f8c8c644ff8e6bc5db63d9dca84a24025d6e5cf8c15cdf10e9411506e21c4c"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "e3813cd77b6fd686e3137a6207793a61aad877bb49b2be2a2fb8ebb1152a098a"
+hash = "5408af5c32091afdf19bcee291288f8640f3dc09571f936e575ed46df6280468"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
