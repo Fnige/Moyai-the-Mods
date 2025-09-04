@@ -282,6 +282,11 @@ hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "dc3575dab2673b765947da8a87c01464ea77af8fe355fe18579dce514b35be7a"
+metafile = true
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "03bf4c83390893faab62e2122e9265712a721bd3cd8e0d603f5daddc2549bbd5"
 metafile = true
@@ -459,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "1cfa183bba77b45e4ae2abea9449c5f4f33b1af56e8b87166525fc56216daba4"
 metafile = true
 
 [[files]]
@@ -807,11 +817,6 @@ hash = "e79856a2e2cee31d7d0c9476b87a7f3fa99ed05c863b3372dc12171cc2b6bdfd"
 metafile = true
 
 [[files]]
-file = "mods/etched.pw.toml"
-hash = "3e11ffcdd1d2c77ac05bf2fbeb52f746491efbc8b2664e80aed8670856c0f686"
-metafile = true
-
-[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "efce3d2641cbf0963e2b43d37f68839cca9727bcd9455998ee82a5a18d679058"
 metafile = true
@@ -864,6 +869,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9fd94d5c7795e107b83952c6f21c1995c81fd200ede7fa68c530baedbee837d"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
@@ -1488,7 +1498,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3fa8d5fc724d385454d3bcda9edf8f589ff71695504ca4bb88d3e9dcbf85d414"
+hash = "2aaee059eaa1359a51f8a56a5e9a2e94417f84f13245c766b88b9a90ab683d10"
 metafile = true
 
 [[files]]
