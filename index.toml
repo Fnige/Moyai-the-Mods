@@ -91,7 +91,7 @@ hash = "7509e98d5e24116889cd0d63f13d20d075a49ac53b90798ce541c44b58453c0d"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
-hash = "2b8b6bba9310e8d5bf4dfda4303a2af86c9e4681f6b4f08c7c2099b0d4a1ff51"
+hash = "25d0cb76df0500bdf61e3d3a820d57d995d71d2df1cb514deafba71a21ea7953"
 
 [[files]]
 file = "config/sophisticatedstorage-server.toml"
@@ -149,6 +149,16 @@ metafile = true
 [[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
+metafile = true
+
+[[files]]
+file = "mods/addonslib.pw.toml"
+hash = "39a237218d0f04a95ff015eb8456fef816434e70f5d208420864391e659b06a5"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "a6165f3d1d2c21c66df9b05bd094a5c2e2f40bcabd2b7082af27562d345db8ec"
 metafile = true
 
 [[files]]
@@ -312,6 +322,11 @@ hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "4925021964dc745510d669181aa79614363618950f0a597e30447602a555c05e"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "2cfa9768cc635d7ec8cbc0172e62db5ad0fc79117b927344d7f2484b78ebd7b7"
 metafile = true
@@ -364,11 +379,6 @@ metafile = true
 [[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
-metafile = true
-
-[[files]]
-file = "mods/cfm-wap.pw.toml"
-hash = "c6e35319cc7df0a8351c46e496a94b652d158d4b57ea232df732062b313830d2"
 metafile = true
 
 [[files]]
@@ -892,6 +902,11 @@ hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
 file = "mods/global-narration-toggle.pw.toml"
 hash = "b8597aa67dd30f644348f93ea359a4383e56af2680b2fef5882235d8c52fc41e"
 metafile = true
@@ -1077,8 +1092,18 @@ hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
 
 [[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+hash = "4353dc49b4c81be0114f89da74f6d61056abc8ce8417b39ba74bf2da4edb6c84"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "964a932d5ea6c63b79b89693438a37d729e205e015500289e272f4d5aba38bde"
+metafile = true
+
+[[files]]
+file = "mods/macaws-byg-bwg.pw.toml"
+hash = "c3b55dc6f00d40cd217441a87845fda61919e4ad7e9a8b24cb53b71ae6abcaa8"
 metafile = true
 
 [[files]]
@@ -1369,11 +1394,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
-metafile = true
-
-[[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "35eb897c9736c48125a8f86253bc5c0f6f1b3891127d7c300d00b0339167cd36"
 metafile = true
 
 [[files]]
