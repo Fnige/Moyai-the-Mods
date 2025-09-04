@@ -82,6 +82,10 @@ file = "config/servercore/optimizations.yml"
 hash = "90a3da935e89208bedba12ffcd243951e1894fd0ba316d37ce80b853949de4d6"
 
 [[files]]
+file = "config/solcarrot-server.toml"
+hash = "aea0b5d5eb04dd09195d89ccbafc3c68f2c31ff5311149d45d4c7630b8c2b45a"
+
+[[files]]
 file = "config/someassemblyrequired-server.toml"
 hash = "7509e98d5e24116889cd0d63f13d20d075a49ac53b90798ce541c44b58453c0d"
 
@@ -1550,11 +1554,6 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "8fc5de8af644504673af794edc678ffa7b508c39ad30f69736744b282d55ad50"
-metafile = true
-
-[[files]]
-file = "mods/spice-of-life-onion.pw.toml"
-hash = "a996ba60a3ab57e4b6c0d91f09b4a388ccfcf3b1d1ce6bf913644a7abfab0adb"
 metafile = true
 
 [[files]]
