@@ -807,6 +807,11 @@ hash = "e79856a2e2cee31d7d0c9476b87a7f3fa99ed05c863b3372dc12171cc2b6bdfd"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "3e11ffcdd1d2c77ac05bf2fbeb52f746491efbc8b2664e80aed8670856c0f686"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "efce3d2641cbf0963e2b43d37f68839cca9727bcd9455998ee82a5a18d679058"
 metafile = true
