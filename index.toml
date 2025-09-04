@@ -423,8 +423,18 @@ hash = "739914b0251026190b8af4e672978b5e84331b4523e41b2785c4206555710ecd"
 metafile = true
 
 [[files]]
+file = "mods/chunky-player-pause.pw.toml"
+hash = "e9d66d5549852158c5e74cfc40a8fc7d4d223af5b6ef18af23adeef10ac245ea"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "cbb43eea425a91c64af48e3275d190c630300a735fb3696b35aadcefabf6a570"
 metafile = true
 
 [[files]]
@@ -900,6 +910,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "11bc4d2951f2bbb0dd17c77534f05c909987e19203398558713bc515f441d5a2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "ed2c987edef80404213abdba45b78e0af7d5d1e1ce73b160e7216b735199f877"
 metafile = true
 
 [[files]]
