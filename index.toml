@@ -17,8 +17,20 @@ file = "config/aquaculture-common.toml"
 hash = "a342b1463882b2f59735058cde0d0c7a0379cbd54e41123c0713c264ed9d9257"
 
 [[files]]
+file = "config/audioplayer/audioplayer-server.properties"
+hash = "660fd1d3b12251d808f28bbeb4d119cc217d06511e595ca688d7fe0f759ffe81"
+
+[[files]]
 file = "config/axesareweapons.json5"
 hash = "f5b2e9c7f9b972c42e25de3e63a209171c9ad1a72ea4f5eda6c0dd40222203c4"
+
+[[files]]
+file = "config/biomesoplenty/generation.toml"
+hash = "aacab96a4e200ba9b81d7d5e5811e8a82a66ddaa364f066f9c6e913112d46fc6"
+
+[[files]]
+file = "config/biomeswevegone/world_generation.json5"
+hash = "e1f8c8c644ff8e6bc5db63d9dca84a24025d6e5cf8c15cdf10e9411506e21c4c"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -72,6 +84,10 @@ hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
 file = "config/openloader/packs/farmers-cutting-collection.pw.toml"
 hash = "cb803c9807fc6ccd1ef3e3e3f31e91238239a9178e5dfb597d4dc326dcb4b956"
 metafile = true
+
+[[files]]
+file = "config/regions_unexplored/regions_unexplored-common.toml"
+hash = "7f185881524312b345515f5bc673bb014786fe30ab6185974de13c898897f47f"
 
 [[files]]
 file = "config/servercore/config.yml"
