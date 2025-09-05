@@ -387,11 +387,6 @@ hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
-file = "mods/cat_jam.pw.toml"
-hash = "c5adc29c7b5aa88587ab54f39d654216bb087e767727a182a4bf44f98228ba5c"
-metafile = true
-
-[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "9ac4b1561ea7c44ce427edadb181fb3785e423727f50900e7668ccf00b386979"
 metafile = true
@@ -692,11 +687,6 @@ hash = "8136c505639b50713160f2634bc7d12c44a47e167a852e9745aa716ba8e44cc4"
 metafile = true
 
 [[files]]
-file = "mods/death-counter-ichun.pw.toml"
-hash = "f3f56fc70c90b2db47c007b44fca7ed622c3bdf753c5e208f10d817696e69a3c"
-metafile = true
-
-[[files]]
 file = "mods/deeper-oceans.pw.toml"
 hash = "25e2566c0691471796b8c8365c05936575e2ebc1879ec7cfa59e5f0f766e9731"
 metafile = true
@@ -727,6 +717,11 @@ hash = "c49a7dff3e52d696cc632ed5602870b396b43eb800c4f448fa0d82cd066463f0"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "ea9cbc526f22ba2faf653abc1b402643d3f211e86af347627311430faf48327f"
 metafile = true
@@ -747,11 +742,6 @@ hash = "13af7707844b2af1b04c8e95ad86016cd45e89a8d10b9a6aba1caee55e6991fe"
 metafile = true
 
 [[files]]
-file = "mods/dyed-flames.pw.toml"
-hash = "e639795ef008287a2e8848d0ef30fe14cc67eb5eca7b7ad8dac5811c69a04393"
-metafile = true
-
-[[files]]
 file = "mods/dyenamics.pw.toml"
 hash = "a11446607c7c928f315be888c5853f4846ca56faec2ed6d1f0753a990fcfe010"
 metafile = true
@@ -769,11 +759,6 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "6424e91859f327b6c7b27ec835ad2b00f81926e83116c78a098a95731c594889"
-metafile = true
-
-[[files]]
-file = "mods/edivadlib.pw.toml"
-hash = "e2ee2481b63a012bdfb8c9f588788dd2f116ff48298014bb3e00d08a224fe14f"
 metafile = true
 
 [[files]]
@@ -927,11 +912,6 @@ hash = "5a19862b43455c1d370f9f54b4185660d2cba9d48597f7270d9b22c83952d7ed"
 metafile = true
 
 [[files]]
-file = "mods/furnace-recycle.pw.toml"
-hash = "eb1b1faac201d4c6f3cdd495234a54ae33643c544ad3cbaace5a9bc81d63b622"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "3dfefb6553f990216152c10db67cf3421dcc633eb9ee0ea944d28fd2910c66bb"
 metafile = true
@@ -964,11 +944,6 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
-metafile = true
-
-[[files]]
-file = "mods/golemsarefriends.pw.toml"
-hash = "ee2a1787a14e5e0e748b8801daede1722c4bf01d99582541c3ea603ed0e429ba"
 metafile = true
 
 [[files]]
@@ -1232,11 +1207,6 @@ hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
 
 [[files]]
-file = "mods/monsters-in-the-closet.pw.toml"
-hash = "6afce08213c05a33240e980e2b92032a6a3ad25d2a54ff8e9f56b5f00d46d45d"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "05f4e54ebaa52fe52dca7e6f2157bc8b2a51a42cafe915fceccdea41a9ceb5b5"
 metafile = true
@@ -1357,11 +1327,6 @@ hash = "51b0b44901aa98943a87ba02446b497b7acbc7177b8f320ed64ec5ddc3b1ccd8"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.pw.toml"
-hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
-metafile = true
-
-[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "9d2221afea391b82aaf0d79d1966f52e9551de1d20f2917985d4cfd109b937e9"
 metafile = true
@@ -1374,6 +1339,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "c5ca38fd4e54c1c59f0caa0b696da20186eb6484432804012557a01af9948457"
+metafile = true
+
+[[files]]
+file = "mods/plonk.pw.toml"
+hash = "d4e16723a495a6bd8d21c8acd74b5a36cda500d0ef587a7b18b8cad90a5651a0"
 metafile = true
 
 [[files]]
@@ -1467,11 +1437,6 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "8f31049728cb784a0216ddbfa3de06751b2a631a3907c84c2d7b2428466d5fc3"
-metafile = true
-
-[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "5c2f6a415937be5e8d362bd5bf7565b5f16339c0bbaf71114b6b4bf3de9ced15"
 metafile = true
@@ -1534,11 +1499,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "f070e2ab660e9eae0105d416942cce82a0bc592e82660f61fe0d9fcd08e4e1e1"
-metafile = true
-
-[[files]]
-file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "ab69f13cc15dba4b8f3ce3226bfff62fd1eff2d367fcd950d68f09a3ef440b1d"
 metafile = true
 
 [[files]]
