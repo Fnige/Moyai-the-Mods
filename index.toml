@@ -102,6 +102,10 @@ file = "config/servercore/optimizations.yml"
 hash = "90a3da935e89208bedba12ffcd243951e1894fd0ba316d37ce80b853949de4d6"
 
 [[files]]
+file = "config/shrink.json5"
+hash = "e7592f354ebd141eab88263c1c32e0bd12cadc0422bafe92c9812fbaa60a3492"
+
+[[files]]
 file = "config/solcarrot-server.toml"
 hash = "aea0b5d5eb04dd09195d89ccbafc3c68f2c31ff5311149d45d4c7630b8c2b45a"
 
@@ -120,6 +124,10 @@ hash = "a77680c5943febd0eb0a1ff737b9fc53e7327c1f4097c095ac5a8ab9287ff3a6"
 [[files]]
 file = "config/structure_layout_optimizer.jsonc"
 hash = "f444999dd9a66b3fa806be94421bb7fe82fd898f91f3bf29a4aaab4e8f5cd95f"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "c68d1caa8a2c721a2bcc8b70738d9920568f74673d3c4b03dc1236db9b18f30b"
 
 [[files]]
 file = "config/twilightforest-common.toml"
