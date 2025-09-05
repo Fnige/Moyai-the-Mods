@@ -61,6 +61,10 @@ file = "config/dummmmmmy-common.toml"
 hash = "43eb770a75da545b5ade53aaa19f3fde994294b688de36f2aeb27659ee8341a1"
 
 [[files]]
+file = "config/ftbessentials.snbt"
+hash = "3a42923de66f43604bd91086dd0f5eb1b7693790f2911f2e2fc83da6f85b1251"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "3b886bef5a1a9ec9a366c6d32fe3f8f4ed014a7046245e9227784539bd3a7595"
 
@@ -430,11 +434,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
-metafile = true
-
-[[files]]
-file = "mods/chunkyborder.pw.toml"
-hash = "cbb43eea425a91c64af48e3275d190c630300a735fb3696b35aadcefabf6a570"
 metafile = true
 
 [[files]]
@@ -1410,11 +1409,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
-metafile = true
-
-[[files]]
-file = "mods/random-mob-sizes.pw.toml"
-hash = "c807ea002028531b058454b0a0f71d8f42afe0fcefa5e1651d425939c662c999"
 metafile = true
 
 [[files]]
