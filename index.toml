@@ -1220,11 +1220,6 @@ hash = "c18ca4f4035e67182ea949ee2d6cd2c31409306ffc404c0c14bc5c1c212747a8"
 metafile = true
 
 [[files]]
-file = "mods/little-big-redstone.pw.toml"
-hash = "0b43cb81c2b0d2c9df937a0fec45c3f804656ca5d265ae9b2a6906cf6835bf56"
-metafile = true
-
-[[files]]
 file = "mods/lmft.pw.toml"
 hash = "1e0e48cc2fbe7b961c0dd5286b5a1786564b63b2fbc268eda2cbb2ec80612a0b"
 metafile = true
@@ -1767,11 +1762,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/tesseract-api.pw.toml"
-hash = "2fc020e68a50279da7ef7ebb85640cb997835a0af45f36948559fdb4e7954d2e"
 metafile = true
 
 [[files]]
