@@ -1,6 +1,6 @@
 name = "Chorus Fruit Drops Nearby"
 filename = "chorusfruitdropsnearby-1.21.1-1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iXK7LqxS/versions/IsHGIMhA/chorusfruitdropsnearby-1.21.1-1.1.jar"

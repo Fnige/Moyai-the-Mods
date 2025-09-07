@@ -1,6 +1,6 @@
 name = "Structure Layout Optimizer"
 filename = "structure_layout_optimizer-neoforge-1.0.10.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ayPU0OHc/versions/Axad8miZ/structure_layout_optimizer-neoforge-1.0.10.jar"

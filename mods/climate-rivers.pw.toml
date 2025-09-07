@@ -1,6 +1,6 @@
 name = "Climate Rivers"
 filename = "ClimateRivers-v21.1.2-1.21.1-NeoForge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DzZWws4q/versions/DOE8t1HN/ClimateRivers-v21.1.2-1.21.1-NeoForge.jar"
