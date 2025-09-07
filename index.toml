@@ -25,10 +25,6 @@ file = "config/axesareweapons.json5"
 hash = "f5b2e9c7f9b972c42e25de3e63a209171c9ad1a72ea4f5eda6c0dd40222203c4"
 
 [[files]]
-file = "config/biomesoplenty/generation.toml"
-hash = "aacab96a4e200ba9b81d7d5e5811e8a82a66ddaa364f066f9c6e913112d46fc6"
-
-[[files]]
 file = "config/biomeswevegone/world_generation.json5"
 hash = "e1f8c8c644ff8e6bc5db63d9dca84a24025d6e5cf8c15cdf10e9411506e21c4c"
 
