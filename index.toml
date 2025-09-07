@@ -65,8 +65,16 @@ file = "config/ftbessentials.snbt"
 hash = "3a42923de66f43604bd91086dd0f5eb1b7693790f2911f2e2fc83da6f85b1251"
 
 [[files]]
+file = "config/granularmobgriefing-common.toml"
+hash = "e0f71a5916ca74202edb8b3126f21987ec437308c16ee7dcda2ad545d6d86f01"
+
+[[files]]
 file = "config/item_obliterator.json5"
-hash = "3b886bef5a1a9ec9a366c6d32fe3f8f4ed014a7046245e9227784539bd3a7595"
+hash = "effd400e714501ae67b16a3285eaee83bcdb07fd5edc6a34524692e00ec7361a"
+
+[[files]]
+file = "config/lmft.json"
+hash = "9c6d50ee15da7ed165a4e4df8c4d9e1f30d5a22610ebb6193a6713b27f257cc7"
 
 [[files]]
 file = "config/misctweaks/client_config.toml"
@@ -142,6 +150,10 @@ file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
+file = "configureddefaults/config/DistantHorizons.toml"
+hash = "25dc9bd4a9305164d564ebad73750ec989c12485f26e14887d9c0317e7e1f356"
+
+[[files]]
 file = "configureddefaults/config/carryon-client.toml"
 hash = "cf50ea697c9de95661e353fa7a9ae9ecf4056ef17f4f914bb32e07e8a90dd0f0"
 
@@ -162,12 +174,20 @@ file = "configureddefaults/config/endermanoverhaul-client.jsonc"
 hash = "892a19b0dacaaf23f6a784483dd09086c293da937455281cb32988ff0cbf4db0"
 
 [[files]]
+file = "configureddefaults/config/euphoria_patcher.properties"
+hash = "c3f737982da36f65d357e48e002faeccd0fc7fa715a53831bd342d03c8e2884e"
+
+[[files]]
 file = "configureddefaults/config/figura.json"
 hash = "d599a897f0d5e078b5bdfe23016d5740c22f4167dc25c744990df9336395e31c"
 
 [[files]]
 file = "configureddefaults/config/ftblibrary-client.snbt"
 hash = "4cd6320d1758b598e4819511a0f54e7739a22c2fa6ac2ab91b9ea4ab85599285"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "c4006bec706b83307d20d5bb8ef29bd2d250261cf642eef6a669b973ae48e7f6"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -332,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/arsdelight.pw.toml"
 hash = "bb6cbf8efc905cc6cd36d960cab4042d91f3038abb264e1676b1ef594cbc8b4e"
+metafile = true
+
+[[files]]
+file = "mods/async-locator-refined.pw.toml"
+hash = "2134df90fdc85b76fb7558e3a43667e708e52ce342b1bcfd127c660c416e89fc"
 metafile = true
 
 [[files]]
@@ -1420,6 +1445,11 @@ hash = "a1d44e226b57ca9d8dc4129d1e9c4a3def96bf677c432f9b6d897085030e434f"
 metafile = true
 
 [[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "c717192523ad018271658cbc2f049c2e182ce80142ee33422b38cc94950d5b45"
+metafile = true
+
+[[files]]
 file = "mods/oritech-things.pw.toml"
 hash = "6263b3a35ff9d94a5fca3107b9fe4bf0d3eac9107b1d22df4a1437a5a7ec3ecb"
 metafile = true
@@ -1740,6 +1770,11 @@ hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
 metafile = true
 
 [[files]]
+file = "mods/supplemental-patches.pw.toml"
+hash = "1e9a83bec38da0be63fc74d0ac8e9e70834bd1f679d29d2da61b858c4ff44876"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries-squared.pw.toml"
 hash = "32b189c634372785ba5441d25e26c929fc9a2ec5d7f554bae43b8db36c562ce9"
 metafile = true
@@ -1767,11 +1802,6 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "bbd1d4b8b1562f98c9247a29de80b0ba5447dda5b549a8b4ee732c38925b784b"
-metafile = true
-
-[[files]]
-file = "mods/time-in-a-bottle-universal.pw.toml"
-hash = "286a42fbc6e750bc8405fa7a2a2388627abd8b1c195d51b53f4aeba0608e004c"
 metafile = true
 
 [[files]]

@@ -16,7 +16,16 @@
 	// Items here will be unusable completely
 	//    Example: minecraft:diamond
 	"blacklisted_items": [
-		"examplemod:example_item"
+		"examplemod:example_item",
+		"sophisticatedbackpacks:stack_upgrade_omega_tier",
+		"sophisticatedstorage:stack_upgrade_omega_tier",
+		"advanced_ae:quantum_alloy_plate",
+		"advanced_ae:quantum_helmet",
+		"advanced_ae:quantum_chestplate",
+		"advanced_ae:quantum_leggings",
+		"advanced_ae:quantum_boots",
+		"advanced_ae:quantum_upgrade_base",
+		"!advanced_ae:*_card"
 	],
 	// -----------------------------------------------------------
 	// Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -42,9 +51,7 @@
 	// Items here will get their recipes disabled
 	// Keep in mind this already is applied to blacklisted items
 	"only_disable_recipes": [
-		"examplemod:example_item",
-		"sophisticatedbackpacks:stack_upgrade_omega_tier",
-		"sophisticatedstorage:stack_upgrade_omega_tier"
+		"examplemod:example_item"
 	],
 	// -----------------------------------------------------------
 	// If true, the mod will use a hashset to handle the blacklisted items
