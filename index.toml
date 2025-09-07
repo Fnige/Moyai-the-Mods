@@ -420,11 +420,6 @@ hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "4925021964dc745510d669181aa79614363618950f0a597e30447602a555c05e"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "8614268ae009f49372cb267a0cea77f75625a9c797501df13aa95ac9bfb5fc7f"
 metafile = true
@@ -1060,11 +1055,6 @@ hash = "e133bd1ec8a5ae4730f90614e639ef52f991b9ebb8b01c7eb81914236f390906"
 metafile = true
 
 [[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
-metafile = true
-
-[[files]]
 file = "mods/global-narration-toggle.pw.toml"
 hash = "b8597aa67dd30f644348f93ea359a4383e56af2680b2fef5882235d8c52fc41e"
 metafile = true
@@ -1252,11 +1242,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
-metafile = true
-
-[[files]]
-file = "mods/macaws-biomes-o-plenty.pw.toml"
-hash = "4353dc49b4c81be0114f89da74f6d61056abc8ce8417b39ba74bf2da4edb6c84"
 metafile = true
 
 [[files]]
