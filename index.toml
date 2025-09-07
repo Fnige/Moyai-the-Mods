@@ -62,7 +62,7 @@ hash = "3a42923de66f43604bd91086dd0f5eb1b7693790f2911f2e2fc83da6f85b1251"
 
 [[files]]
 file = "config/granularmobgriefing-common.toml"
-hash = "e0f71a5916ca74202edb8b3126f21987ec437308c16ee7dcda2ad545d6d86f01"
+hash = "f57fc608580414a2ee02793b68cfe5082f560ce86170da40daaf6ea08ac5169c"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -1238,11 +1238,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
-metafile = true
-
-[[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "964a932d5ea6c63b79b89693438a37d729e205e015500289e272f4d5aba38bde"
 metafile = true
 
 [[files]]
