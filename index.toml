@@ -1536,16 +1536,6 @@ hash = "74f0716635e9787d12ce3f0e07658719f4a9c2d0dbdaf9103d4d5ddfd62ff6d3"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-chipped.pw.toml"
-hash = "33ff19e15d3eab2cf108508a9a455311fea71b4a713dc5b4c2b96e46b9327852"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "f5bae2fe68cf6fde6f4ad025c70fffaa2cc49308b4a0cb1b6ad939a0739225c0"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
