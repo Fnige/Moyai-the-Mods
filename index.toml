@@ -787,12 +787,12 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "c49a7dff3e52d696cc632ed5602870b396b43eb800c4f448fa0d82cd066463f0"
+hash = "b210a17a51e1143ce69dd2adc9f4d4ff7c13775721a2067be6ca6712cb76fd71"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "86e0a38759dbbd300a396af797ff58e16e2b026240f84eacbe4d6312526933e7"
+hash = "766bf60a11b59826737088c78c91c22b640dfeb836ecdf9dbde8fd4b2a76522b"
 metafile = true
 
 [[files]]
