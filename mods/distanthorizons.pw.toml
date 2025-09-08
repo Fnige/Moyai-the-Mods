@@ -14,5 +14,5 @@ version = "P14vqscU"
 
 [option]
 optional = true
-default = true
-description = "LOD rendering for those who want to see far out. Higher RAM usage iirc and can cause visual issues too (mainly with shaders)"
+default = false
+description = "LOD rendering for those who want to see far out. Will require more RAM and storage than without it"
