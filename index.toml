@@ -205,11 +205,6 @@ hash = "39a237218d0f04a95ff015eb8456fef816434e70f5d208420864391e659b06a5"
 metafile = true
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "a6165f3d1d2c21c66df9b05bd094a5c2e2f40bcabd2b7082af27562d345db8ec"
-metafile = true
-
-[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "74e560ef2a2e39526f282c43453d03b2324144f42325e6088769e3c848d693a7"
 metafile = true
@@ -307,11 +302,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
-metafile = true
-
-[[files]]
-file = "mods/armor-trim-item-fix.pw.toml"
-hash = "2a2ec3fe79e0ebb31c51a5fa3ed31f1778f77216fd757922ec6040379a606834"
 metafile = true
 
 [[files]]
@@ -1070,11 +1060,6 @@ hash = "84b5ca7fcfe3b6471ae05135e59852352124caa7e3b733476862512b83ee755d"
 metafile = true
 
 [[files]]
-file = "mods/handcrafted.pw.toml"
-hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
-metafile = true
-
-[[files]]
 file = "mods/hypertube.pw.toml"
 hash = "1b2982aa0edab139e4e955373c4aff492dff628fc327a356506478ad6b4780c0"
 metafile = true
@@ -1242,11 +1227,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "703a684aa7718959808f570013345d150bc83b6753743275d01fb94475d318ad"
-metafile = true
-
-[[files]]
-file = "mods/macaws-furniture.pw.toml"
-hash = "0829f62963ed03811e1164551a1e9ad422991a67cb13849e9398efedab817f2c"
 metafile = true
 
 [[files]]
@@ -1420,11 +1400,6 @@ hash = "c717192523ad018271658cbc2f049c2e182ce80142ee33422b38cc94950d5b45"
 metafile = true
 
 [[files]]
-file = "mods/oritech-things.pw.toml"
-hash = "6263b3a35ff9d94a5fca3107b9fe4bf0d3eac9107b1d22df4a1437a5a7ec3ecb"
-metafile = true
-
-[[files]]
 file = "mods/oritech.pw.toml"
 hash = "e46d8b54f1f7fb179dcef5df1671eb67bf1b2d4d63aa286e944e460c9a42494d"
 metafile = true
@@ -1442,6 +1417,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "4bf091a6947c83041ae6e9577c9877fbb77908ccf1652d212800132a9eba02ef"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "acafcc8edd4ee740a6ae420dcd4bf988dc316323b9981f9c6b0095294fa407f6"
 metafile = true
 
 [[files]]
