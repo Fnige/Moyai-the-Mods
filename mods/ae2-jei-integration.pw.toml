@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5748513
 project-id = 1074338
+
+[option]
+optional = true
+description = "To be enabled with JEI"
