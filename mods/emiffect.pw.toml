@@ -11,3 +11,8 @@ hash = "f5cc9936e0beccb578814cbb5fd343f1e49fd74d9f157a4314bf6643b4d5fd555dc28975
 [update.modrinth]
 mod-id = "705gWllI"
 version = "8t6Kpge9"
+
+[option]
+optional = true
+description = "To be enabled with EMI"
+default = true

@@ -11,3 +11,8 @@ hash = "63dba55f429f8504f600db45b87143ab2005fc68f7314adf364e82afb3399c7e6488008d
 [update.modrinth]
 mod-id = "u6dRKJwZ"
 version = "oghFmDkL"
+
+[option]
+optional = true
+description = "A simpler recipe viewer, might be less ram intensive than temu or jemi"
+default = true

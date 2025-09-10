@@ -14,5 +14,4 @@ version = "P14vqscU"
 
 [option]
 optional = true
-default = false
-description = "LOD rendering for those who want to see far out. Will require more RAM and storage than without it"
+description = "LOD Rendering mod, will use more ram than without (even if disabled?)"

@@ -1,0 +1,59 @@
+# ------------------
+# | Flavour Groups |
+# ------------------
+
+[flavor_groups.recipe_viewer]
+[[flavor_groups.recipe_viewer.choices]]
+id = "no_recipes"
+name = "None"
+description = "No recipe viewers in the pack"
+[[flavor_groups.recipe_viewer.choices]]
+id = "jei"
+name = "JEI"
+description = "Simplest recipe viewer, will likely use the least ram"
+[[flavor_groups.recipe_viewer.choices]]
+id = "temi"
+name = "TMRV + EMI"
+description = "(TEMU) Less ram intensive than JEMI but <em>might</em> have worse compat than JEMI"
+[[flavor_groups.recipe_viewer.choices]]
+id = "jemi"
+name = "JEI + EMI"
+description = "(JEMI) The most ram intensive but safest option, theoretically would have best compat but apparently TEMI is better?"
+
+[flavor_groups.distant_horizons]
+name = "Distant Horizons"
+side = "client"
+choices = ["distant_horizons_off", "distant_horizons_on"]
+
+
+# --------------
+# | META FILES |
+# --------------
+
+# RV - Core
+[metafile.emi]
+flavors = ["temi", "jemi"]
+[metafile.jei]
+flavors = ["jei", "jemi"]
+[metafile.tmrv]
+flavors = "temi"
+
+# RV - Addons
+[metafile.justenoughbreeding]
+flavors = ["jei", "temi", "jemi"]
+
+[metafile.emi-enchanting]
+flavors = ["temi", "jemi"]
+[metafile.emi-loot]
+flavors = ["temi", "jemi"]
+[metafile.emi-ores]
+flavors = ["temi", "jemi"]
+[metafile.emiffect]
+flavors = ["temi", "jemi"]
+[metafile.extra-mod-integrations]
+flavors = "jemi"
+
+[metafile.just-enough-descriptions-jeed]
+flavors = "jei"
+[metafile.just-enough-resources-jer]
+flavors = "jei"

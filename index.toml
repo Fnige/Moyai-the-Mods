@@ -195,11 +195,6 @@ hash = "ae6352055ac8adb36b9e4d2ae6bbc996e040399d032bc4a9fa5275c1c46dbf60"
 metafile = true
 
 [[files]]
-file = "mods/additional-lights.pw.toml"
-hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
-metafile = true
-
-[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "39a237218d0f04a95ff015eb8456fef816434e70f5d208420864391e659b06a5"
 metafile = true
@@ -217,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/ae2-crafting-tree.pw.toml"
 hash = "b65010712a1d17392bafa4dcecb6608fdf16a74a04f64fa67e207e921abf03d1"
+metafile = true
+
+[[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "0794a45bf4c6cf8c17aebca641c306a7a25334ecb654f959c55ab2c3e81bddd7"
 metafile = true
 
 [[files]]
@@ -1140,6 +1140,21 @@ hash = "3ee389e5b994aa1423e36140804840a6fe419dffd4798111c0624c2afebd95ab"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "ebaa44f5e5a3ee400288b72a2a67b12f741361a7459ee0505272c93fa8e91932"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "2814d0d33ca5a6b95da1084b954eca9ca627890455c788811351ad6069a8f3bf"
+metafile = true
+
+[[files]]
 file = "mods/kawaii-dishes.pw.toml"
 hash = "37b396f46138061fe62f310fce2081594f057d50df9545e6bab6ee1840232011"
 metafile = true
@@ -1252,11 +1267,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "3b62c81efdf4b3500b119d790ee57de120d41cbb40183860252ea5fe0fd79d67"
-metafile = true
-
-[[files]]
-file = "mods/macaws-windows.pw.toml"
-hash = "f2d6d97fab7e3aa2a83b7c2f4a4d37b79640d1d2eb4321b4d1a849f35cad0fb2"
 metafile = true
 
 [[files]]
@@ -1590,6 +1600,11 @@ hash = "2aaee059eaa1359a51f8a56a5e9a2e94417f84f13245c766b88b9a90ab683d10"
 metafile = true
 
 [[files]]
+file = "mods/simply-light.pw.toml"
+hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
+metafile = true
+
+[[files]]
 file = "mods/skeleton-ai-fix.pw.toml"
 hash = "96e51a1ab6e2c52235f335c20bee2051128de204437f80ada89c599c267fe86a"
 metafile = true
@@ -1737,6 +1752,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "44ecdae2df678c7cb008e48a3a50079203045a03d16e49aa74637fae97630ce7"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "923dd26fd6e03736046cd5e449a27552ac077348bc96f14cea54fcb4949f2d35"
 metafile = true
 
 [[files]]
