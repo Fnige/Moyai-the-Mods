@@ -3,6 +3,9 @@
 # ------------------
 
 [flavor_groups.recipe_viewer]
+name = "Recipe Viewer"
+description = ""
+
 [[flavor_groups.recipe_viewer.choices]]
 id = "no_recipes"
 name = "None"
@@ -53,7 +56,10 @@ flavors = ["temi", "jemi"]
 [metafile.extra-mod-integrations]
 flavors = "jemi"
 
-[metafile.just-enough-descriptions-jeed]
+[metafile.just-enough-effect-descriptions-jeed]
 flavors = "jei"
 [metafile.just-enough-resources-jer]
 flavors = "jei"
+
+[metafile.distant_horizons]
+flavors = "distant_horizons_on"
