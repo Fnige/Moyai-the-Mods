@@ -61,7 +61,7 @@ flavors = "jemi"
 flavors = "jei"
 [metafile.just-enough-resources-jer]
 flavors = "jei"
-[metafile.ae2jeiintegration]
+[metafile.ae2-jei-integration]
 flavors = "jei"
 
 [metafile.distanthorizons]
