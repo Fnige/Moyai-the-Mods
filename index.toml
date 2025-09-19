@@ -430,6 +430,11 @@ hash = "fbb4954b6bcfb8a492b74cbd1d913fd27f481e0cab1ab9371751e1e1843e3da1"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "5c6ceda5b52d25134a99cd4c933db4b7aaa88466b6a15a99f501a91e44d0b9ef"
+metafile = true
+
+[[files]]
 file = "mods/cable-facades.pw.toml"
 hash = "4474de6346f9bedd14de109f463c5a72696df9c9d5a3a85d84f366dba1db14dd"
 metafile = true
