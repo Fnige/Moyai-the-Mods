@@ -98,6 +98,10 @@ hash = "cb803c9807fc6ccd1ef3e3e3f31e91238239a9178e5dfb597d4dc326dcb4b956"
 metafile = true
 
 [[files]]
+file = "config/pfm.json"
+hash = "96014f97ade673df14e69c0c1f986da77211226dc51dbe2249454bfa84055363"
+
+[[files]]
 file = "config/regions_unexplored/regions_unexplored-common.toml"
 hash = "7f185881524312b345515f5bc673bb014786fe30ab6185974de13c898897f47f"
 
@@ -184,10 +188,6 @@ hash = "d599a897f0d5e078b5bdfe23016d5740c22f4167dc25c744990df9336395e31c"
 [[files]]
 file = "configureddefaults/config/ftblibrary-client.snbt"
 hash = "4cd6320d1758b598e4819511a0f54e7739a22c2fa6ac2ab91b9ea4ab85599285"
-
-[[files]]
-file = "configureddefaults/options.txt"
-hash = "c4006bec706b83307d20d5bb8ef29bd2d250261cf642eef6a669b973ae48e7f6"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
