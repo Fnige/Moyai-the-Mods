@@ -830,14 +830,13 @@ hash = "bc5b830f19faa989d460de460d9514e46722c5fb047a81f6d29e012a1168d74c"
 metafile = true
 
 [[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "6c61d82413fe5ee84a180f07b59b5e5537dfc25a0fa5762b9c54cdaeb37fb178"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "004af9dec6032aebd23d4e5c3fb5076f1debd9dc6f4807bb36252575c08167fd"
 metafile = true
+
+[[files]]
+file = "mods/emi_ores_patched-1.2+1.21.1+neoforge.jar"
+hash = "58021740cb59ca9da9ed67e9bf49a3c43653ceca2ba51603c1665b62edec61e4"
 
 [[files]]
 file = "mods/emiffect.pw.toml"
