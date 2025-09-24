@@ -295,6 +295,11 @@ hash = "725972afb0707619414156cda3b63b2da28335843b86abbd478633b13128029d"
 metafile = true
 
 [[files]]
+file = "mods/applied-flux.pw.toml"
+hash = "b336f955434d7ccd26d31f8f3041e4d74271e61190c6b79f73b6d5a9367118e2"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "4cc090d258d260dcac24080dd33df5ab1d5c346f26a48b77cd739734e2415bab"
 metafile = true
